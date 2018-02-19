@@ -1,0 +1,81 @@
+.jeg_footer_6 .jeg_footer_primary {
+	display: none;
+}
+
+.jeg_post_excerpt p:last-of-type {
+	margin-bottom: 0;
+	text-align: justify;
+}
+
+p {
+	text-align: justify !important;
+}
+
+.button {
+	font-size: 15px;
+	line-height: 40px;
+	color: white;
+}
+
+.jeg_push_notification_content p {
+	text-align: center !important;
+}
+
+.jeg_single_fullwidth .jeg_main_content {
+
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 2px;
+	border-right: #f0f0f0;
+	border-right-width: medium;
+	border-right-style: none;
+	border-right-width: medium;
+	border-right-style: none;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-top: #f0f0f0;
+	border-top-width: medium;
+	border-top-style: none;
+	border-top-width: medium;
+	border-top-style: none;
+	border-top-width: 0;
+	border-top-style: solid;
+}
+
+
+.jeg_footer_6 .jeg_footer_primary {
+	display: none;
+}
+
+.jeg_post_excerpt p:last-of-type {
+	margin-bottom: 0;
+	text-align: justify;
+}
+
+p {
+	text-align: justify !important;
+}
+
+.button {
+	font-size: 15px;
+	line-height: 40px;
+	color: white;
+}
+
+.jeg_push_notification_content p {
+	text-align: center !important;
+}
+
+.adlink{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.jeg_footer_instagram_wrapper {
+    display: none;
+}
+.jeg_pl_lg_box .jeg_postblock_content {
+    
+    text-align: center;
+}
