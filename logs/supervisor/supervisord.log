@@ -592,6 +592,3 @@
 2018-02-19 08:01:47,569 INFO success: MailHog entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-02-19 08:01:47,569 INFO success: mysql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-02-19 08:01:47,569 INFO success: varnish-themes-watcher entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
-2018-02-20 01:26:42,664 INFO exited: varnish-themes-watcher (exit status 0; expected)
-2018-02-20 01:26:43,713 INFO spawned: 'varnish-themes-watcher' with pid 365
-2018-02-20 01:26:44,715 INFO success: varnish-themes-watcher entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

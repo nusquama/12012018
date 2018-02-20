@@ -111,6 +111,7 @@ Creating API v2 with WebPath:
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
+<<<<<<< HEAD
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
@@ -590,3 +591,5 @@ Creating API v2 with WebPath:
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
+=======
+>>>>>>> parent of ad25ea0... test change css
