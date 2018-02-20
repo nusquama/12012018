@@ -2,6 +2,10 @@
 	display: none;
 }
 
+.jeg_footer_6 .jeg_footer_primary {
+	display: none;
+}
+
 .jeg_post_excerpt p:last-of-type {
 	margin-bottom: 0;
 	text-align: justify;
