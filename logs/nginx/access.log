@@ -4735,3 +4735,5 @@
 127.0.0.1 - - [20/Feb/2018:01:36:29 +0000] "GET /favicon.ico HTTP/1.0" 404 564 "http://12012018.local/wp-admin/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36"
 127.0.0.1 - - [20/Feb/2018:01:36:35 +0000] "GET /wp-admin/ HTTP/1.0" 404 564 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36"
 127.0.0.1 - - [20/Feb/2018:01:36:44 +0000] "GET /wp-admin/ HTTP/1.0" 404 564 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36"
+127.0.0.1 - - [20/Feb/2018:01:37:42 +0000] "GET /wp-admin/ HTTP/1.0" 404 564 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36"
+127.0.0.1 - - [20/Feb/2018:01:37:49 +0000] "GET / HTTP/1.0" 403 564 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36"
